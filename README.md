@@ -1,2 +1,2 @@
-# test_411
-a repository for test
+# 手写数字识别
+人工智能导论-手写数字识别项目
